@@ -1,4 +1,4 @@
-# my-learning-repository-2
+factorization
 #include<iostream>
 using namespace std;
 int main()
